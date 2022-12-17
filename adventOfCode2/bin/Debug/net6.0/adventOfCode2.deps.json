@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "adventOfCode2/1.0.0": {
+        "runtime": {
+          "adventOfCode2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "adventOfCode2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

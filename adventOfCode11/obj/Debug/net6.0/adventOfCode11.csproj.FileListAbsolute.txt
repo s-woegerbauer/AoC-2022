@@ -1,0 +1,15 @@
+C:\Users\simsi\Coding\adventOfCode11\bin\Debug\net6.0\adventOfCode11.exe
+C:\Users\simsi\Coding\adventOfCode11\bin\Debug\net6.0\adventOfCode11.deps.json
+C:\Users\simsi\Coding\adventOfCode11\bin\Debug\net6.0\adventOfCode11.runtimeconfig.json
+C:\Users\simsi\Coding\adventOfCode11\bin\Debug\net6.0\adventOfCode11.dll
+C:\Users\simsi\Coding\adventOfCode11\bin\Debug\net6.0\adventOfCode11.pdb
+C:\Users\simsi\Coding\adventOfCode11\obj\Debug\net6.0\adventOfCode11.csproj.AssemblyReference.cache
+C:\Users\simsi\Coding\adventOfCode11\obj\Debug\net6.0\adventOfCode11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simsi\Coding\adventOfCode11\obj\Debug\net6.0\adventOfCode11.AssemblyInfoInputs.cache
+C:\Users\simsi\Coding\adventOfCode11\obj\Debug\net6.0\adventOfCode11.AssemblyInfo.cs
+C:\Users\simsi\Coding\adventOfCode11\obj\Debug\net6.0\adventOfCode11.csproj.CoreCompileInputs.cache
+C:\Users\simsi\Coding\adventOfCode11\obj\Debug\net6.0\adventOfCode11.dll
+C:\Users\simsi\Coding\adventOfCode11\obj\Debug\net6.0\refint\adventOfCode11.dll
+C:\Users\simsi\Coding\adventOfCode11\obj\Debug\net6.0\adventOfCode11.pdb
+C:\Users\simsi\Coding\adventOfCode11\obj\Debug\net6.0\adventOfCode11.genruntimeconfig.cache
+C:\Users\simsi\Coding\adventOfCode11\obj\Debug\net6.0\ref\adventOfCode11.dll
