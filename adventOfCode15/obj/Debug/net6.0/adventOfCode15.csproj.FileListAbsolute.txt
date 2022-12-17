@@ -1,0 +1,15 @@
+C:\Users\simsi\Coding\adventOfCode2022(C#)\adventOfCode15\bin\Debug\net6.0\adventOfCode15.exe
+C:\Users\simsi\Coding\adventOfCode2022(C#)\adventOfCode15\bin\Debug\net6.0\adventOfCode15.deps.json
+C:\Users\simsi\Coding\adventOfCode2022(C#)\adventOfCode15\bin\Debug\net6.0\adventOfCode15.runtimeconfig.json
+C:\Users\simsi\Coding\adventOfCode2022(C#)\adventOfCode15\bin\Debug\net6.0\adventOfCode15.dll
+C:\Users\simsi\Coding\adventOfCode2022(C#)\adventOfCode15\bin\Debug\net6.0\adventOfCode15.pdb
+C:\Users\simsi\Coding\adventOfCode2022(C#)\adventOfCode15\obj\Debug\net6.0\adventOfCode15.csproj.AssemblyReference.cache
+C:\Users\simsi\Coding\adventOfCode2022(C#)\adventOfCode15\obj\Debug\net6.0\adventOfCode15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simsi\Coding\adventOfCode2022(C#)\adventOfCode15\obj\Debug\net6.0\adventOfCode15.AssemblyInfoInputs.cache
+C:\Users\simsi\Coding\adventOfCode2022(C#)\adventOfCode15\obj\Debug\net6.0\adventOfCode15.AssemblyInfo.cs
+C:\Users\simsi\Coding\adventOfCode2022(C#)\adventOfCode15\obj\Debug\net6.0\adventOfCode15.csproj.CoreCompileInputs.cache
+C:\Users\simsi\Coding\adventOfCode2022(C#)\adventOfCode15\obj\Debug\net6.0\adventOfCode15.dll
+C:\Users\simsi\Coding\adventOfCode2022(C#)\adventOfCode15\obj\Debug\net6.0\refint\adventOfCode15.dll
+C:\Users\simsi\Coding\adventOfCode2022(C#)\adventOfCode15\obj\Debug\net6.0\adventOfCode15.pdb
+C:\Users\simsi\Coding\adventOfCode2022(C#)\adventOfCode15\obj\Debug\net6.0\adventOfCode15.genruntimeconfig.cache
+C:\Users\simsi\Coding\adventOfCode2022(C#)\adventOfCode15\obj\Debug\net6.0\ref\adventOfCode15.dll
